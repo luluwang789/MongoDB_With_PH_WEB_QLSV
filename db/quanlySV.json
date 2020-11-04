@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "5fa00be8fe7c0000ee006152"
+  },
+  "name": "Dương Thái Nhật",
+  "mssv": "4401104161",
+  "phone": "0123456789",
+  "email": "duongthainhat123@gmail.com",
+  "class": "K44CNTTC",
+  "address": "Bình Định"
+},{
+  "_id": {
+    "$oid": "5fa00c1efe7c0000ee006154"
+  },
+  "name": "Nguyễn Thị Kim Anh",
+  "mssv": "4401104051",
+  "phone": "0123456789",
+  "email": "nguyenthikimanh123@gmail.com",
+  "class": "K44CNTTA",
+  "address": "Lâm Đồng"
+},{
+  "_id": {
+    "$oid": "5fa00c47fe7c0000ee006155"
+  },
+  "name": "Nguyễn Quốc Cường",
+  "mssv": "4401104061",
+  "phone": "0123456789",
+  "email": "nguyenquoccuong123@gmail.com",
+  "class": "K44CNTTA",
+  "address": "Dak Lak"
+},{
+  "_id": {
+    "$oid": "5fa00cbcfe7c0000ee006157"
+  },
+  "name": "Nguyễn Khánh Linh",
+  "mssv": "4401104123",
+  "phone": "0123456789",
+  "email": "nguyenkhanhlinh123@gmail.com",
+  "class": "K44CNTTB",
+  "address": "Dân Bắc"
+},{
+  "_id": {
+    "$oid": "5fa00cfafe7c0000ee006159"
+  },
+  "name": "Trần Hoài Đức",
+  "mssv": "4401104076",
+  "phone": "0123456789",
+  "email": "duchoaikevin279@gmail.com",
+  "class": "K44CNTTA",
+  "address": "Ninh Thuận"
+},{
+  "_id": {
+    "$oid": "5fa00d3efe7c0000ee00615a"
+  },
+  "name": "Đặng Văn Thương",
+  "mssv": "4401104099",
+  "phone": "0123456789",
+  "email": "thuongdv123@gmail.com",
+  "class": "K44CNTTD",
+  "address": "Hà Nội"
+},{
+  "_id": {
+    "$oid": "5fa00d68fe7c0000ee00615b"
+  },
+  "name": "Huỳnh Văn Khánh",
+  "mssv": "4401104088",
+  "phone": "0123456789",
+  "email": "khanh123@gmail.com",
+  "class": "K44CNTTB",
+  "address": "Bắc Ninh"
+},{
+  "_id": {
+    "$oid": "5fa00d9bfe7c0000ee00615c"
+  },
+  "name": "Bạch Quang Linh",
+  "mssv": "4401601123",
+  "phone": "0123458274",
+  "email": "quanglinhspvan123@gmail.com",
+  "class": "K44SPVANA",
+  "address": "Bến Tre"
+}]
